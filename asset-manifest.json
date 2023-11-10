@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33ba0623.css",
+    "main.js": "/static/js/main.db86005f.js",
+    "static/media/Group 40731.png": "/static/media/Group 40731.edbb663a362626820e35.png",
+    "static/media/cover.png": "/static/media/cover.e3cb7dd21cfbc86b40e1.png",
+    "static/media/telegram-cloud-document-4- 1 1.png": "/static/media/telegram-cloud-document-4-5900135907549253111 1 1.4a2d786cc99c06ce4326.png",
+    "static/media/ssec.png": "/static/media/ssec.0202935c1b0e56db8d7e.png",
+    "static/media/babydoge_Viewport_021 1.png": "/static/media/babydoge_Viewport_021 1.b9f59766ac5d0a725123.png",
+    "static/media/mint-character.png": "/static/media/mint-character.6486b57df74f6f1e34ad.6043f6aa701b17f2ca8b.png",
+    "static/media/Rectangle 3967-1.png": "/static/media/Rectangle 3967-1.5c50dfbbdd609987f634.png",
+    "static/media/Katana Inu BG1 1.png": "/static/media/Katana Inu BG1 1.2d0f4cfecef1f572a770.png",
+    "static/media/katana-05 1.png": "/static/media/katana-05 1.475eeb08a19ff6ed96fa.png",
+    "static/media/katana-08 1 - character 1.png": "/static/media/katana-08 1 - character 1.0cec3831c8c0dd6c6520.png",
+    "static/media/Group 40746.png": "/static/media/Group 40746.f432c91f16ced494be60.png",
+    "static/media/footer.png": "/static/media/footer.2c05f8fb9937b80ff4fe.png",
+    "static/media/sww.png": "/static/media/sww.5da9d30ff1bb6f24f1eb.png",
+    "static/media/KatanaInu.png": "/static/media/KatanaInu.ec3265304d4ff036d1e8.ec3265304d4ff036d1e8.png",
+    "index.html": "/index.html",
+    "main.33ba0623.css.map": "/static/css/main.33ba0623.css.map",
+    "main.db86005f.js.map": "/static/js/main.db86005f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ba0623.css",
+    "static/js/main.db86005f.js"
+  ]
+}
