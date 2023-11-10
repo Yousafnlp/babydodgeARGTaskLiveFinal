@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c76e2ac4.css",
-    "main.js": "/static/js/main.b2abe5b2.js",
+    "main.css": "/static/css/main.44c58f35.css",
+    "main.js": "/static/js/main.51c44c69.js",
     "static/media/Group 40731.png": "/static/media/Group 40731.edbb663a362626820e35.png",
     "static/media/cover.png": "/static/media/cover.e3cb7dd21cfbc86b40e1.png",
     "static/media/telegram-cloud-document-4- 1 1.png": "/static/media/telegram-cloud-document-4-5900135907549253111 1 1.4a2d786cc99c06ce4326.png",
@@ -17,11 +17,11 @@
     "static/media/sww.png": "/static/media/sww.5da9d30ff1bb6f24f1eb.png",
     "static/media/KatanaInu.png": "/static/media/KatanaInu.ec3265304d4ff036d1e8.ec3265304d4ff036d1e8.png",
     "index.html": "/index.html",
-    "main.c76e2ac4.css.map": "/static/css/main.c76e2ac4.css.map",
-    "main.b2abe5b2.js.map": "/static/js/main.b2abe5b2.js.map"
+    "main.44c58f35.css.map": "/static/css/main.44c58f35.css.map",
+    "main.51c44c69.js.map": "/static/js/main.51c44c69.js.map"
   },
   "entrypoints": [
-    "static/css/main.c76e2ac4.css",
-    "static/js/main.b2abe5b2.js"
+    "static/css/main.44c58f35.css",
+    "static/js/main.51c44c69.js"
   ]
 }
