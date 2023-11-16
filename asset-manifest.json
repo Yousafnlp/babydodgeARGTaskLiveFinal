@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8461d16.css",
-    "main.js": "/static/js/main.f47d0e43.js",
+    "main.css": "/static/css/main.5736685b.css",
+    "main.js": "/static/js/main.22d2cede.js",
     "static/media/sword.mp4": "/static/media/sword.b2e9ba0e53d8c3b56500.mp4",
     "static/media/Group 40731.png": "/static/media/Group 40731.edbb663a362626820e35.png",
     "static/media/cover.png": "/static/media/cover.e3cb7dd21cfbc86b40e1.png",
     "static/media/telegram-cloud-document-4- 1 1.png": "/static/media/telegram-cloud-document-4-5900135907549253111 1 1.4a2d786cc99c06ce4326.png",
     "static/media/ssec.png": "/static/media/ssec.0202935c1b0e56db8d7e.png",
     "static/media/babydoge_Viewport_021 1.png": "/static/media/babydoge_Viewport_021 1.b9f59766ac5d0a725123.png",
-    "static/media/mint-character.png": "/static/media/mint-character.6486b57df74f6f1e34ad.6043f6aa701b17f2ca8b.png",
+    "static/media/mint-character.png": "/static/media/mint-character.6486b57df74f6f1e34ad.1b2b1908d448a1fbf0b2.png",
     "static/media/Rectangle 3967-1.png": "/static/media/Rectangle 3967-1.5c50dfbbdd609987f634.png",
     "static/media/Katana Inu BG1 1.png": "/static/media/Katana Inu BG1 1.2d0f4cfecef1f572a770.png",
     "static/media/katana-05 1.png": "/static/media/katana-05 1.475eeb08a19ff6ed96fa.png",
@@ -19,11 +19,11 @@
     "static/media/sww.png": "/static/media/sww.5da9d30ff1bb6f24f1eb.png",
     "static/media/KatanaInu.png": "/static/media/KatanaInu.ec3265304d4ff036d1e8.ec3265304d4ff036d1e8.png",
     "index.html": "/index.html",
-    "main.e8461d16.css.map": "/static/css/main.e8461d16.css.map",
-    "main.f47d0e43.js.map": "/static/js/main.f47d0e43.js.map"
+    "main.5736685b.css.map": "/static/css/main.5736685b.css.map",
+    "main.22d2cede.js.map": "/static/js/main.22d2cede.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8461d16.css",
-    "static/js/main.f47d0e43.js"
+    "static/css/main.5736685b.css",
+    "static/js/main.22d2cede.js"
   ]
 }
